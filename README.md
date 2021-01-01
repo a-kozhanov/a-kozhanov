@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Alexander 👋
+
+#### Github Stats
+
+![Alexander Kozhanov's github stats](https://github-readme-stats.vercel.app/api?username=a-kozhanov&show_icons=true&theme=radical&count_private=true)
+
 
 <!--
 **a-kozhanov/a-kozhanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
