@@ -12,7 +12,7 @@
 
 #### Github Stats
 <p align="center">
-<a href="https://gitstats.me/a-kozhanov">
+<a href="https://gitstats.me/a-kozhanov" target="_blank">
   <img height="180em" alt="Alexander Kozhanov's github stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=a-kozhanov&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" alt="Alexander Kozhanov's github stats" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=a-kozhanov&layout=compact&langs_count=8&theme=algolia"/>
 </a>
