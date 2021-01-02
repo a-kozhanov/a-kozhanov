@@ -1,14 +1,24 @@
-<h1 align="center"> Hi there, I'm Alexander 👋, Welcome to my GitHub Profile<br/> </h1> 
+<h1 align="center"> Hi there 👋, my name is Alexander, welcome to my GitHub Profile<br/> </h1> 
 
-#### 🛠 &nbsp;Tech Stack
+I'm a full stack developer specializing in .NET (C#, ASP.NET MVC), MS SQL Server, and JavaScript frameworks (React, Angular)
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+### Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6.svg?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-282C34?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C.svg?style=for-the-badge&logo=bootstrap)
+![React](https://img.shields.io/badge/-React-282C34.svg?style=for-the-badge&logo=react&logoColor=ffffff)
+![Redux](https://img.shields.io/badge/-Redux-764ABC.svg?style=for-the-badge&logo=redux)
+
+### Backend
+![C# CSharp](https://img.shields.io/badge/-Csharp-007396.svg?style=for-the-badge&logo=.net)
+![Python](https://img.shields.io/badge/-Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=ffffff)
+
+### Databases
+![MSSQL](https://img.shields.io/badge/-MsSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff)
+![Oracle](https://img.shields.io/badge/-Oracle-DC382D?style=for-the-badge&logo=Oracle&logoColor=ffffff)
 
 #### Github Stats
 <p align="center">
