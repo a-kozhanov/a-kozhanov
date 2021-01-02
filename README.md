@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there 👋, My name is Alexander, Welcome to my GitHub Profile<br/> </h1> 
+<h2 align="center"> Hi there 👋, My name is Alexander, Welcome to my GitHub Profile<br/> </h1> 
 
 😉 I'm a **full stack developer** specializing in .NET (C#, ASP.NET MVC), MS SQL Server, and JavaScript frameworks (React, Angular).  
 🔭 I have experience in developing **web applications** (ASP.NET Core MVC, Web API), **desktop applications** (WinForms, ConsoleApp) and some experience in **SPA** (React, Angular). I also work with **databases** (MS SQL, Oracle).  
