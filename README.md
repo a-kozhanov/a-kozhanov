@@ -30,6 +30,7 @@
 </a>
 </p>
 
+![Profile views](https://gpvc.arturio.dev/a-kozhanov)
 
 <!--
 **a-kozhanov/a-kozhanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
