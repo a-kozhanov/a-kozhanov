@@ -1,5 +1,11 @@
 <h2 align="center"> Hi there 👋, My name is Alexander, Welcome to my GitHub Profile<br/> </h1> 
 
+<div align="center">
+
+![Profile views](https://gpvc.arturio.dev/a-kozhanov)
+
+</div>
+
 😉 I'm a **full stack developer** specializing in .NET (C#, ASP.NET MVC), MS SQL Server, and JavaScript frameworks (React, Angular).  
 🔭 I have experience in developing **web applications** (ASP.NET Core MVC, Web API), **desktop applications** (WinForms, ConsoleApp) and some experience in **SPA** (React, Angular). I also work with **databases** (MS SQL, Oracle).  
 📣 Also interested in new products in the world of **.NET development** and **IT** in general.
@@ -22,15 +28,18 @@
 ![MSSQL](https://img.shields.io/badge/-MsSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff)
 ![Oracle](https://img.shields.io/badge/-Oracle-DC382D?style=for-the-badge&logo=Oracle&logoColor=ffffff)
 
-#### Github Stats
+### 📫 How to reach me
+[![Gmail Badge](https://img.shields.io/badge/-akzhv@mail.ru-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:akzhv@mail.ru)](mailto:akzhv@mail.ru)
+[![Github Badge](https://img.shields.io/badge/-a--kozhanov-grey?style=flat&logo=github&logoColor=white&link=https://github.com/a-kozhanov/)](https://github.com/a-kozhanov/)
+[![Telegram Badge](https://img.shields.io/badge/-akzhv-grey?style=social&logo=telegram&logoColor=white&link=https://t.me/akzhv)](https://t.me/akzhv)
+
+### Github Stats
 <p align="center">
 <a href="https://gitstats.me/a-kozhanov" target="_blank">
   <img height="180em" alt="Alexander Kozhanov's github stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=a-kozhanov&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" alt="Alexander Kozhanov's github stats" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=a-kozhanov&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-![Profile views](https://gpvc.arturio.dev/a-kozhanov)
 
 <!--
 **a-kozhanov/a-kozhanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
