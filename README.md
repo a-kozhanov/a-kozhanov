@@ -29,7 +29,7 @@
 ![Oracle](https://img.shields.io/badge/-Oracle-DC382D?style=for-the-badge&logo=Oracle&logoColor=ffffff)
 
 ### 📫 How to reach me
-[![Gmail Badge](https://img.shields.io/badge/-akzhv@mail.ru-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:akzhv@mail.ru)](mailto:akzhv@mail.ru)
+[![Gmail Badge](https://img.shields.io/badge/-a--knv@mail.ru-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:a-knv@mail.ru)](mailto:a-knv@mail.ru)
 [![Github Badge](https://img.shields.io/badge/-a--kozhanov-grey?style=flat&logo=github&logoColor=white&link=https://github.com/a-kozhanov/)](https://github.com/a-kozhanov/)
 [![Telegram Badge](https://img.shields.io/badge/-akzhv-grey?style=social&logo=telegram&logoColor=white&link=https://t.me/akzhv)](https://t.me/akzhv)
 
