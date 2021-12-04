@@ -85,7 +85,7 @@ ConsoleApp) and some experience in **SPA** (React, Angular). I also work with **
 <details>
 <summary>⌛ Wakatime Stats</summary>
 
-[![Wakatime stats](https://github-readme-stats.thecesrom.vercel.app/api/wakatime?username=@c0c837b6-b14f-4d2a-8d1f-d4baccb05c44&layout=compact&theme=react)](https://wakatime.com/@c0c837b6-b14f-4d2a-8d1f-d4baccb05c44)
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=akozhanov&layout=compact&theme=react)](https://wakatime.com/akozhanov)
 
 </details>
 
