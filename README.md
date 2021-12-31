@@ -89,6 +89,14 @@ ConsoleApp) and some experience in **SPA** (React, Angular). I also work with **
 
 </details>
 
+<details>
+<summary>📊 Language&nbsp;/&nbsp;Framework stats</summary>
+<a href='https://profile.codersrank.io/user/a-kozhanov/'>
+    <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=a-kozhanov&padding=30'>
+</a>
+
+</details>
+
 ### 📫 How to reach me
 
 [![Mail Badge](https://img.shields.io/badge/-a--knv@mail.ru-c14438?style=flat&logo=Mail.Ru&logoColor=white&link=mailto:a-knv@mail.ru)](mailto:a-knv@mail.ru)
