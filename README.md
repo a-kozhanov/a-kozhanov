@@ -71,7 +71,7 @@ ConsoleApp) and some experience in **SPA** (React, Angular). I also work with **
 <details>
 <summary>📈 Recent GitHub Activity</summary>
 
-![Alexander Kozhanov's GitHub Activity graph](https://activity-graph.herokuapp.com/graph?username=a-kozhanov&theme=dracula)
+![Alexander Kozhanov's GitHub Activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=a-kozhanov&theme=dracula)
 
 </details>
 
